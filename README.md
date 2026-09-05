@@ -1,16 +1,13 @@
 # Biohacking Protocol
 
-Scripts that turn wearable recovery data into a simple "train or rest today?"
-decision, plus protocol trackers for sauna and strength.
+Open notes from two years of n=1 self-experiments: sleep, HRV, glucose,
+supplement timing. Every claim ranked by effect size, not hype.
 
-## What it does
-- Reads HRV + resting HR from your wearable export
-- Compares against your personal baseline and a noise band
-- Outputs train / rest, with the numbers that decided it
-- Tracks sauna sessions and strength tests against a longevity protocol
+Full logs and rankings: https://hackedself.com
 
-## The protocols
-The full protocols (what dose, why, what the evidence actually shows) are on
-[HackedSelf](https://hackedself.com/), practical biohacking for longevity.
-
-[HackedSelf](https://hackedself.com/).
+## The rest of the workshop
+- Dev subscriptions math: https://www.poketdev.com
+- Practical AI engineering: https://pastagi.com
+- Side-hustle teardowns: https://extrahustles.com
+- FIRE numbers, ranked: https://firenomics.com
+- Buy-it-for-life testing: https://durablepicks.com
